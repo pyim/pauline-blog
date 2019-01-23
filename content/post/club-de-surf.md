@@ -1,15 +1,14 @@
 +++
+categories = ["design"]
 date = "2019-01-05T19:41:01+05:30"
-title = "Club de surf en Vendée"
-writer = "Göran Svensson"
-draft = false
+description = "Individual meta description for this post"
 image = "img/portfolio/logs1.jpg"
 showonlyimage = false
-categories = [ "design"]
+title = "Club de surf en La Roche"
 weight = 2
-description = "Individual meta description for this post"
-+++
+writer = "Göran Svensson"
 
++++
 Découvre les club de surf
 <!--more-->
 
