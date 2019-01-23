@@ -1,0 +1,19 @@
+---
+label: article
+hide_body: false
+is_partial: false
+fields:
+- type: text
+- type: text
+  name: titre
+  label: titre
+- type: datetime
+  name: date
+  label: date
+- type: textarea
+  name: contenu
+  label: contenu
+  config:
+    wysiwyg: true
+    schema:
+      format: markdown
