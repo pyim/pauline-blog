@@ -1,4 +1,4 @@
-baseurl = "https://example.org/"
+baseurl = "https://philippe.formao.fr/"
 title = "Nederburg"
 theme = "hugo-nederburg-theme"
 languageCode = "fr-FR"
