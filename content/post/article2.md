@@ -1,15 +1,14 @@
 +++
+categories = ["Vendée"]
 date = "2019-01-09T19:41:01+05:30"
-title = "Maison d'hôte Audrey"
-writer = "Pauline Pless"
-draft = false
+description = "Individual meta description for this post"
 image = "img/portfolio/logs1.jpg"
 showonlyimage = false
-categories = [ "Vendée"]
+title = "Maison d'hôte de Pauline"
 weight = 2
-description = "Individual meta description for this post"
-+++
+writer = "Pauline Pless"
 
++++
 Découvre les club de surf
 <!--more-->
 
