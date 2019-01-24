@@ -4,7 +4,7 @@ date = "2019-01-05T19:41:01+05:30"
 description = "Individual meta description for this post"
 image = "img/portfolio/logs1.jpg"
 showonlyimage = false
-title = "Club de surf en La Roche"
+title = "Club de surf à Talmont"
 weight = 2
 writer = "Göran Svensson"
 
