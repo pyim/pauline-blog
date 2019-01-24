@@ -17,3 +17,5 @@ fields:
     wysiwyg: true
     schema:
       format: markdown
+pages:
+- content/post/plage-de-vendee.md
