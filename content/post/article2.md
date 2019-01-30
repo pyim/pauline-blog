@@ -4,7 +4,7 @@ date = "2019-01-09T19:41:01+05:30"
 description = "Individual meta description for this post"
 image = "img/portfolio/logs1.jpg"
 showonlyimage = false
-title = "Maison d'hôte de Pauline"
+title = "Maison d'hôte de Philippe"
 weight = 2
 writer = "Pauline Pless"
 
