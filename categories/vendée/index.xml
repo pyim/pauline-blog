@@ -20,5 +20,14 @@
       <description>&lt;p&gt;Découvre les club de surf&lt;/p&gt;</description>
     </item>
     
+    <item>
+      <title>Le vent</title>
+      <link>https://philippe.formao.fr/post/le-vent/</link>
+      <pubDate>Tue, 29 Jan 2019 23:00:00 +0000</pubDate>
+      
+      <guid>https://philippe.formao.fr/post/le-vent/</guid>
+      <description>le contenu</description>
+    </item>
+    
   </channel>
 </rss>
